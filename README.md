@@ -83,6 +83,7 @@
 | **[Network Security MLOps Pipeline](https://github.com/SankalpMakol016)** | 7-stage end-to-end ML pipeline (ingestion → validation → transformation → training → evaluation → prediction → deployment) for phishing detection on an 11K-record dataset. Achieved **96.7% accuracy, 97.2% F1, 99.6% ROC-AUC** via GridSearchCV tuning. Schema-driven validation, SMOTE class-imbalance correction, MLflow + DagsHub experiment tracking, Dockerized Flask API with GitHub Actions CI/CD to AWS ECR/EC2. | Python, Scikit-Learn, XGBoost, MLflow, Flask, Docker, GitHub Actions, AWS EC2/ECR/S3, MongoDB |
 | **[Student Performance Prediction System](https://github.com/SankalpMakol016)** | Modular ML application (ingestion → transformation → training → prediction → Flask UI) predicting student exam scores with **88% R²**. Benchmarked 5 models (Linear Regression, Decision Tree, Random Forest, XGBoost, CatBoost) and deployed the best performer via Docker + GitHub Actions CI/CD to AWS EC2. | Python, Scikit-Learn, XGBoost, CatBoost, Flask, Docker, GitHub Actions, AWS EC2/ECR, IAM |
 | **[Customer Churn Prediction (ANN)](https://github.com/SankalpMakol016/customer-churn-prediction-ann)** | Deep learning project: an Artificial Neural Network for binary churn classification on bank customer data, with a Streamlit interface for real-time predictions. Custom preprocessing pipeline (LabelEncoder, OneHotEncoder, StandardScaler) with persisted encoders/scalers, early stopping, and TensorBoard-tracked training. Deployed on Streamlit Community Cloud. | Python, TensorFlow/Keras, ANN, Scikit-Learn, Streamlit |
+| **[Hotel Management System](https://github.com/SankalpMakol016/hotel-management-java)** | JavaFX hotel management desktop application built to practice core Java OOP — encapsulation, generics, collections, serialization, and threading. | Java, JavaFX |
 | **California Housing Price Prediction** | EDA, feature engineering, and regression modeling on the California Housing dataset, evaluated with RMSE and k-fold cross-validation. | Python, Pandas, NumPy, Scikit-Learn |
 
 ---
@@ -90,13 +91,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SankalpMakol016&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankalpMakol016&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SankalpMakol016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Sankalp's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankalpMakol016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SankalpMakol016&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SankalpMakol016&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SankalpMakol016&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+> If any card above shows a broken image, it's usually a browser ad-blocker/privacy extension blocking the `vercel.app` or `herokuapp.com` widget domains — try disabling it for this page, or the cards will render fine once the README is live on your actual GitHub profile page.
 
 ---
 
