@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras_Tuner-D00000?style=flat-square&logo=keras&logoColor=white">
 </p>
 
 ### Data Science
@@ -85,6 +86,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/AWS_EC2%2FECR%2FS3-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
@@ -175,17 +177,18 @@ Deployed with an interactive prediction interface.
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🏨 Hotel Management System
 
-JavaFX desktop application built around core object-oriented programming concepts.
+JavaFX desktop application designed around core object-oriented programming principles and modular application design.
 
-Implemented encapsulation, generics, collections, serialization and multithreading.
+Implemented encapsulation, generics, collections, serialization and multithreading for managing hotel operations and application workflows.
 
 **Tech**
 
-`Java` `JavaFX` `OOP`
+`Java` `JavaFX` `OOP`  
+`Collections` `Multithreading`
 
 <a href="https://github.com/SankalpMakol016/hotel-management-java">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -193,18 +196,43 @@ Implemented encapsulation, generics, collections, serialization and multithreadi
 
 </td>
 
-<td width="50%" align="center">
+
+<td width="33%" align="center" valign="top">
+
+### 🎬 IMDB Sentiment Analysis
+
+Deep learning-based NLP application for classifying IMDB movie reviews as **Positive** or **Negative**.
+
+Built a SimpleRNN model with sequence preprocessing, word embeddings, hyperparameter tuning and a custom inference pipeline.
+
+**Tech**
+
+`TensorFlow` `Keras` `SimpleRNN`  
+`Keras Tuner` `NLP` `Streamlit`
+
+<a href="https://github.com/SankalpMakol016/RNN-Project">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+
+<td width="33%" align="center" valign="top">
 
 ### 🏠 California Housing Prediction
 
-Machine learning regression project for predicting California housing prices.
+End-to-end machine learning regression project for predicting median house values using the California Housing dataset.
 
-Includes exploratory data analysis, feature engineering, preprocessing pipelines and model evaluation using RMSE and k-fold cross-validation.
+Performed exploratory data analysis, feature engineering and preprocessing, then compared regression models using RMSE and k-fold cross-validation.
 
 **Tech**
 
 `Python` `Pandas` `NumPy`  
-`Scikit-Learn`
+`Scikit-Learn` `Regression`
+
+<a href="https://github.com/SankalpMakol016">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
