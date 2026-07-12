@@ -34,19 +34,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech in **Data Science & Engineering** at Manipal Institute of Technology — Expected May 2028
-- 🔭 Building **end-to-end MLOps pipelines**, from data ingestion and model training to CI/CD-driven cloud deployment
-- 🌱 Focused on **Machine Learning, Deep Learning, and MLOps**
-- ☁️ Hands-on experience deploying ML applications using **AWS, Docker, and GitHub Actions**
-- 🧠 Working with **ANNs, CNNs, and RNNs** using TensorFlow and Keras
-- 💼 Open to **ML / Data Science / MLOps internship opportunities**
-- 📫 Reach me at **sankalp.sumit.makol@gmail.com**
+-  B.Tech in **Data Science & Engineering** at Manipal Institute of Technology — Expected May 2028
+-  Building **end-to-end MLOps pipelines**, from data ingestion and model training to CI/CD-driven cloud deployment
+-  Focused on **Machine Learning, Deep Learning, and MLOps**
+-  Hands-on experience deploying ML applications using **AWS, Docker, and GitHub Actions**
+-  Working with **ANNs, CNNs, and RNNs** using TensorFlow and Keras
+-  Open to **ML / Data Science / MLOps internship opportunities**
+-  Reach me at **sankalp.sumit.makol@gmail.com**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -101,7 +101,7 @@
 
 ---
 
-# 💼 Projects — Showcase
+#  Projects — Showcase
 
 <table>
 <tr>
@@ -129,6 +129,52 @@ Schema validation, SMOTE, GridSearchCV, experiment tracking and automated cloud 
 
 <td width="33%" align="center">
 
+### 📅 CalSync
+
+Collaborative event scheduling platform with secure authentication, event management, participant invitations, availability tracking and recurring events.
+
+Containerized using Docker and deployed on Render with Railway MySQL in a production-ready cloud environment supporting secure authentication, session management and relational data persistence.
+
+**Tech**
+
+`Python` `Flask` `MySQL`  
+`Docker` `Render` `Railway`
+
+<a href="https://github.com/SankalpMakol016/CalSync">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎬 IMDB Sentiment Analysis
+
+Deep learning-based NLP application for classifying IMDB movie reviews as **Positive** or **Negative**.
+
+Built a SimpleRNN model with sequence preprocessing, word embeddings, hyperparameter tuning and a custom inference pipeline.
+
+**Tech**
+
+`TensorFlow` `Keras` `SimpleRNN`  
+`Keras Tuner` `NLP` `Streamlit`
+
+<a href="https://github.com/SankalpMakol016/RNN-Project">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
 ### 🎓 Student Performance Prediction
 
 Modular machine learning system for predicting student exam performance.
@@ -148,7 +194,26 @@ Complete training, prediction and deployment pipeline.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
+
+### 🏨 Hotel Management System
+
+JavaFX desktop application designed around core object-oriented programming principles and modular application design.
+
+Implemented encapsulation, generics, collections, serialization and multithreading for managing hotel operations and application workflows.
+
+**Tech**
+
+`Java` `JavaFX` `OOP`  
+`Collections` `Multithreading`
+
+<a href="https://github.com/SankalpMakol016/hotel-management-java">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
 
 ### 🧠 Customer Churn ANN
 
@@ -172,76 +237,9 @@ Deployed with an interactive prediction interface.
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 🏨 Hotel Management System
-
-JavaFX desktop application designed around core object-oriented programming principles and modular application design.
-
-Implemented encapsulation, generics, collections, serialization and multithreading for managing hotel operations and application workflows.
-
-**Tech**
-
-`Java` `JavaFX` `OOP`  
-`Collections` `Multithreading`
-
-<a href="https://github.com/SankalpMakol016/hotel-management-java">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-
-<td width="33%" align="center" valign="top">
-
-### 🎬 IMDB Sentiment Analysis
-
-Deep learning-based NLP application for classifying IMDB movie reviews as **Positive** or **Negative**.
-
-Built a SimpleRNN model with sequence preprocessing, word embeddings, hyperparameter tuning and a custom inference pipeline.
-
-**Tech**
-
-`TensorFlow` `Keras` `SimpleRNN`  
-`Keras Tuner` `NLP` `Streamlit`
-
-<a href="https://github.com/SankalpMakol016/RNN-Project">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-
-<td width="33%" align="center" valign="top">
-
-### 🏠 California Housing Prediction
-
-End-to-end machine learning regression project for predicting median house values using the California Housing dataset.
-
-Performed exploratory data analysis, feature engineering and preprocessing, then compared regression models using RMSE and k-fold cross-validation.
-
-**Tech**
-
-`Python` `Pandas` `NumPy`  
-`Scikit-Learn` `Regression`
-
-<a href="https://github.com/SankalpMakol016">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
